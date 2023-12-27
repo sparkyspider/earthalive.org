@@ -13,7 +13,8 @@ export default {
       fontFamily: {
         inter: ['Inter', 'sans-serif'],
         roboto: ['Roboto', 'sans-serif'],
-        'roboto-condensed': ['Roboto Condensed', 'sans-serif']
+        'roboto-condensed': ['Roboto Condensed', 'sans-serif'],
+        kanit: ['Kanit', 'sans-serif']
       }
     },
   },
